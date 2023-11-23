@@ -22,7 +22,7 @@ MonoBehaviour:
   m_Children: []
   m_Clips:
   - m_Version: 1
-    m_Start: 3.25
+    m_Start: 3.15
     m_ClipIn: 0.033333333333333215
     m_Asset: {fileID: 3787454835622305533}
     m_Duration: 2.033333333333333
@@ -106,7 +106,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: bfda56da833e2384a9677cd3c976a436, type: 3}
-  m_Name: Timeline
+  m_Name: TimelineSource
   m_EditorClassIdentifier: 
   m_Version: 0
   m_Tracks:
@@ -404,7 +404,7 @@ MonoBehaviour:
   m_Loop: 0
   m_bufferingTime: 0.1
   m_ClipProperties:
-    volume: 0.713
+    volume: 0.582
 --- !u!114 &5397376150120708819
 MonoBehaviour:
   m_ObjectHideFlags: 1
