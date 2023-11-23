@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Timeline_Events_ASN-Aidan.unity
+    guid: bcca7ffb874b9e54196ec609346fafb1
   m_configObjects: {}
